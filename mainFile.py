@@ -5,3 +5,6 @@ if True:
 
 if False:
     print("Nieprawda")    
+
+
+print("koniec skryptu")
